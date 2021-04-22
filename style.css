@@ -1,0 +1,15 @@
+body{
+    Background-color: blueviolet;
+      text-align: center;
+  }
+  h1{
+  }
+  #album{
+    height: 400px;
+    width: 400px;
+  }
+  #Button{
+    height: 30px;
+    border-radius: 10px;
+    border-color: #212121
+  }
